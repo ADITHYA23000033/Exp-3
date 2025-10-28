@@ -1,54 +1,68 @@
-## REG NO: 212224230310
-## NAME: YASWANTH KUMAR AS
 
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
+## REG NO: 212223110001
+## NAME: ADITHYA V
+
 
 # AIM:
 
 To develop a Railway Reservation System that enables users to book, cancel, and check the status of train tickets, while managing train schedules, seat availability, and passenger records efficiently.
 
 # SRS (Procedure):
+Analyze the Railway System and identify its key actors (e.g., Passenger, Booking Clerk, Administrator) and system functionalities (e.g., Book Ticket, Cancel Ticket, Check Train Schedule).
 
-Create the following diagrams in StarUML:
 
-1. Activity Diagram
+Create the Use Case Diagram to show actors and their interactions with the system.
 
-2. Class Diagram
 
-3. Communication Diagram
+Develop the Class Diagram representing classes, attributes, operations, and relationships.
 
-4. Package Diagram
 
-5. Sequence Diagram
+Design the Activity Diagram describing workflows such as ticket booking.
 
-6. Use Case Diagram
+
+Construct the Sequence Diagram illustrating interactions between objects during processes like payment and ticket confirmation.
+
+
+Prepare the Communication Diagram showing collaboration among objects.
+
+
+Organize components into packages using a Package Diagram for modularity.
+
 
 
 # DIAGRAMS:
+## USECASE DIAGRAM
+
+![UseCaseDiagram1](https://github.com/user-attachments/assets/f04bfcfe-ca2a-4caa-82b4-b4d5302265e9)
+
 ## ACTIVITY DIAGRAM
+![ActivityDiagram1](https://github.com/user-attachments/assets/5444ffeb-1b97-4534-a187-dc64d700ce4b)
 
-
-![ActivityDiagram](https://github.com/user-attachments/assets/6a25017d-e2f6-451f-b9d4-5d646974d59e)
 
 ## CLASS DIAGRAM
+![ClassDiagram1](https://github.com/user-attachments/assets/a984b5e8-1765-40c9-8438-1b1fccea2abf)
 
-![ClassDiagram](https://github.com/user-attachments/assets/a9c81a35-4a8b-483a-a4d8-f7048f451cf1)
+
 
 ## COMMUNICATION DIAGRAM
+![CommunicationDiagram1](https://github.com/user-attachments/assets/cf922bba-4ad7-440f-af0f-2cb5cf8cba2c)
 
-![image](https://github.com/user-attachments/assets/fb3b5caf-30f9-4583-9b94-ce4ff18dc600)
 
 ## PACKAGE DIAGRAM
 
-![PackageDiagram](https://github.com/user-attachments/assets/08ac79fd-b571-4b05-bed2-08e0159815f4)
+![PackageDiagram1](https://github.com/user-attachments/assets/556819cf-92b5-4402-a57c-72136b9b3e1d)
+
+
+
 
 ## SEQUENCE DIAGRAM
+![SequenceDiagram3](https://github.com/user-attachments/assets/9cf81aa1-8e6d-4cd6-b18a-234f61938b7d)
 
-![image](https://github.com/user-attachments/assets/de30c02b-110b-4d02-8ba9-d79176685983)
 
-## USECASE DIAGRAM
 
-![UseCaseDiagram](https://github.com/user-attachments/assets/61868321-ae1f-41c0-bb07-80d48ac7e9ea)
+
+
 
 # RESULT:
 
